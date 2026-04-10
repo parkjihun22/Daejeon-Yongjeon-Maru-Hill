@@ -14,7 +14,7 @@ const contents = [
     { type: "84A㎡",   src: room84A },
     { type: "84B㎡",   src: room84B },
     { type: "84C㎡",  src: room84C },
-    { type: "122㎡",  src: room122 },
+    { type: "84D",  src: room122 },
 
   ];
 
