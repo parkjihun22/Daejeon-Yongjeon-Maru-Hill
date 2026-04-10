@@ -56,7 +56,7 @@ const ComplexGuide3 = () => {
     name="description"
     content="대전 용전 마루힐 커뮤니티 시설을 소개합니다. 입주민의 생활 편의를 높이는 다양한 커뮤니티 공간과 단지 내 편의시설 정보를 확인하세요."
   />
-  <link rel="canonical" href="https://www.lotte-castl.co.kr/ComplexGuide/community" />
+  <link rel="canonical" href="https://www.theporest.co.kr/ComplexGuide/community" />
   <meta name="robots" content="index,follow" />
 
   {/* Open Graph */}
@@ -67,8 +67,8 @@ const ComplexGuide3 = () => {
     property="og:description"
     content="입주민의 생활 편의를 높이는 다양한 커뮤니티 공간을 확인하세요."
   />
-  <meta property="og:url" content="https://www.lotte-castl.co.kr/ComplexGuide/community" />
-  <meta property="og:image" content="https://www.lotte-castl.co.kr/img/og/complex.jpg" />
+  <meta property="og:url" content="https://www.theporest.co.kr/ComplexGuide/community" />
+  <meta property="og:image" content="https://www.theporest.co.kr/img/og/complex.jpg" />
 </Helmet>
 
 <Header isChanged={isScroll} />

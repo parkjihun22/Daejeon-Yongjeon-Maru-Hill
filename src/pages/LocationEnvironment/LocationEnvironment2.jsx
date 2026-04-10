@@ -51,7 +51,7 @@ const LocationEnvironment1 = () => {
     name="description"
     content="대전 용전 마루힐의 프리미엄을 확인하세요. 복합터미널 중심 생활권, 풍부한 생활 인프라, 편리한 교통환경과 미래가치를 담은 핵심 가치를 안내합니다."
   />
-  <link rel="canonical" href="https://www.lotte-castl.co.kr/LocationEnvironment/primium" />
+  <link rel="canonical" href="https://www.theporest.co.kr/LocationEnvironment/primium" />
   <meta name="robots" content="index,follow" />
 </Helmet>
 

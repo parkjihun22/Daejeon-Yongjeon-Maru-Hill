@@ -2,127 +2,143 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>대전 용전 마루힐</title>
-    <link>https://www.lotte-castl.co.kr/</link>
-    <description>대전 용전 마루힐ㅣ☎️(대표)1533-8848ㅣ이천 롯데캐슬 센트럴 페라즈 스카이ㅣ견본주택ㅣ청약ㅣ분양일정ㅣ세대안내ㅣ고객센터</description>
+    <link>https://www.theporest.co.kr/</link>
+    <description>대전 용전 마루힐ㅣ☎️(대표)1533-8848ㅣ민간임대 아파트ㅣ사업개요ㅣ입지환경ㅣ단지안내ㅣ세대안내ㅣ관심고객등록</description>
     <language>ko-KR</language>
-    <atom:link href="https://www.lotte-castl.co.kr/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://www.theporest.co.kr/rss.xml" rel="self" type="application/rss+xml"/>
 
     <!-- 브랜드소개 -->
     <item>
       <title>브랜드 소개</title>
-      <link>https://www.lotte-castl.co.kr/Brand/intro</link>
-      <guid isPermaLink="true">https://www.lotte-castl.co.kr/Brand/intro</guid>
+      <link>https://www.theporest.co.kr/Brand/intro</link>
+      <guid isPermaLink="true">https://www.theporest.co.kr/Brand/intro</guid>
       <description><![CDATA[대전 용전 마루힐 브랜드의 철학과 주거 가치를 소개합니다.]]></description>
       <pubDate>Tue, 11 Nov 2025 14:00:00 +0900</pubDate>
     </item>
+
     <item>
       <title>홍보 영상</title>
-      <link>https://www.lotte-castl.co.kr/Brand/video</link>
-      <guid isPermaLink="true">https://www.lotte-castl.co.kr/Brand/video</guid>
-      <description><![CDATA[이천의 미래가치를 담은 대전 용전 마루힐 홍보 영상을 만나보세요.]]></description>
+      <link>https://www.theporest.co.kr/Brand/video</link>
+      <guid isPermaLink="true">https://www.theporest.co.kr/Brand/video</guid>
+      <description><![CDATA[대전 용전 마루힐의 단지와 주거 가치를 영상으로 만나보세요.]]></description>
       <pubDate>Tue, 11 Nov 2025 14:00:00 +0900</pubDate>
     </item>
 
     <!-- 사업개요 -->
     <item>
       <title>사업 안내</title>
-      <link>https://www.lotte-castl.co.kr/BusinessGuide/intro</link>
-      <guid isPermaLink="true">https://www.lotte-castl.co.kr/BusinessGuide/intro</guid>
+      <link>https://www.theporest.co.kr/BusinessGuide/intro</link>
+      <guid isPermaLink="true">https://www.theporest.co.kr/BusinessGuide/intro</guid>
       <description><![CDATA[대전 용전 마루힐의 입지, 규모, 단지 구성 등 사업 개요를 확인하세요.]]></description>
       <pubDate>Tue, 11 Nov 2025 14:00:00 +0900</pubDate>
     </item>
+
     <item>
       <title>분양 일정</title>
-      <link>https://www.lotte-castl.co.kr/BusinessGuide/plan</link>
-      <guid isPermaLink="true">https://www.lotte-castl.co.kr/BusinessGuide/plan</guid>
-      <description><![CDATA[청약 일정과 모델하우스 오픈, 계약 일정을 안내합니다.]]></description>
+      <link>https://www.theporest.co.kr/BusinessGuide/plan</link>
+      <guid isPermaLink="true">https://www.theporest.co.kr/BusinessGuide/plan</guid>
+      <description><![CDATA[모델하우스 오픈 및 주요 일정을 안내합니다.]]></description>
       <pubDate>Tue, 11 Nov 2025 14:00:00 +0900</pubDate>
     </item>
 
     <!-- 분양안내 -->
     <item>
+      <title>민간임대란?</title>
+      <link>https://www.theporest.co.kr/SalesInfo/guide</link>
+      <guid isPermaLink="true">https://www.theporest.co.kr/SalesInfo/guide</guid>
+      <description><![CDATA[민간임대 아파트 제도와 장점, 공급 방식을 안내합니다.]]></description>
+      <pubDate>Tue, 11 Nov 2025 14:00:00 +0900</pubDate>
+    </item>
+
+    <item>
       <title>모집공고 안내</title>
-      <link>https://www.lotte-castl.co.kr/SalesInfo/announcement</link>
-      <guid isPermaLink="true">https://www.lotte-castl.co.kr/SalesInfo/announcement</guid>
-      <description><![CDATA[분양 세대 수, 청약 자격, 분양가 등 공식 모집공고 내용을 확인하세요.]]></description>
+      <link>https://www.theporest.co.kr/SalesInfo/announcement</link>
+      <guid isPermaLink="true">https://www.theporest.co.kr/SalesInfo/announcement</guid>
+      <description><![CDATA[대전 용전 마루힐 모집공고와 공급 조건, 세부 내용을 확인하세요.]]></description>
       <pubDate>Tue, 11 Nov 2025 14:00:00 +0900</pubDate>
     </item>
 
     <!-- 입지환경 -->
     <item>
       <title>입지 안내</title>
-      <link>https://www.lotte-castl.co.kr/LocationEnvironment/intro</link>
-      <guid isPermaLink="true">https://www.lotte-castl.co.kr/LocationEnvironment/intro</guid>
-      <description><![CDATA[이천 도심권 핵심 입지와 주변 인프라, 교통 호재 등을 확인하세요.]]></description>
+      <link>https://www.theporest.co.kr/LocationEnvironment/intro</link>
+      <guid isPermaLink="true">https://www.theporest.co.kr/LocationEnvironment/intro</guid>
+      <description><![CDATA[대전 동구 용전동 중심 생활 인프라와 교통 환경을 확인하세요.]]></description>
       <pubDate>Tue, 11 Nov 2025 14:00:00 +0900</pubDate>
     </item>
+
     <item>
       <title>프리미엄</title>
-      <link>https://www.lotte-castl.co.kr/LocationEnvironment/primium</link>
-      <guid isPermaLink="true">https://www.lotte-castl.co.kr/LocationEnvironment/primium</guid>
-      <description><![CDATA[대전 용전 마루힐의 브랜드·단지·교통·자연 프리미엄 요소를 소개합니다.]]></description>
+      <link>https://www.theporest.co.kr/LocationEnvironment/primium</link>
+      <guid isPermaLink="true">https://www.theporest.co.kr/LocationEnvironment/primium</guid>
+      <description><![CDATA[대전 용전 마루힐의 브랜드 가치와 단지 프리미엄 요소를 소개합니다.]]></description>
       <pubDate>Tue, 11 Nov 2025 14:00:00 +0900</pubDate>
     </item>
 
     <!-- 단지안내 -->
     <item>
       <title>단지 배치도</title>
-      <link>https://www.lotte-castl.co.kr/ComplexGuide/intro</link>
-      <guid isPermaLink="true">https://www.lotte-castl.co.kr/ComplexGuide/intro</guid>
-      <description><![CDATA[동별 배치, 조경, 커뮤니티 위치 등 단지 전체 구성을 확인하세요.]]></description>
+      <link>https://www.theporest.co.kr/ComplexGuide/intro</link>
+      <guid isPermaLink="true">https://www.theporest.co.kr/ComplexGuide/intro</guid>
+      <description><![CDATA[동별 배치와 조경 계획, 단지 구성을 확인하세요.]]></description>
       <pubDate>Tue, 11 Nov 2025 14:00:00 +0900</pubDate>
     </item>
+
     <item>
       <title>호수 배치도</title>
-      <link>https://www.lotte-castl.co.kr/ComplexGuide/detailintro</link>
-      <guid isPermaLink="true">https://www.lotte-castl.co.kr/ComplexGuide/detailintro</guid>
-      <description><![CDATA[라인/스택별 동·호수 구성, 조망·일조 요소를 소개합니다.]]></description>
+      <link>https://www.theporest.co.kr/ComplexGuide/detailintro</link>
+      <guid isPermaLink="true">https://www.theporest.co.kr/ComplexGuide/detailintro</guid>
+      <description><![CDATA[라인별 동·호수 배치와 세대 위치를 확인할 수 있습니다.]]></description>
       <pubDate>Tue, 11 Nov 2025 14:00:00 +0900</pubDate>
     </item>
+
     <item>
       <title>커뮤니티</title>
-      <link>https://www.lotte-castl.co.kr/ComplexGuide/community</link>
-      <guid isPermaLink="true">https://www.lotte-castl.co.kr/ComplexGuide/community</guid>
-      <description><![CDATA[피트니스센터, 작은도서관 등 커뮤니티 특화 시설을 소개합니다.]]></description>
+      <link>https://www.theporest.co.kr/ComplexGuide/community</link>
+      <guid isPermaLink="true">https://www.theporest.co.kr/ComplexGuide/community</guid>
+      <description><![CDATA[피트니스센터, 작은도서관 등 커뮤니티 시설을 소개합니다.]]></description>
       <pubDate>Tue, 11 Nov 2025 14:00:00 +0900</pubDate>
     </item>
 
     <!-- 세대안내 -->
     <item>
       <title>84A</title>
-      <link>https://www.lotte-castl.co.kr/FloorPlan/59A</link>
-      <guid isPermaLink="true">https://www.lotte-castl.co.kr/FloorPlan/59A</guid>
-      <description><![CDATA[전용 84A 타입의 평면 구성과 특장점을 소개합니다.]]></description>
+      <link>https://www.theporest.co.kr/FloorPlan/59A</link>
+      <guid isPermaLink="true">https://www.theporest.co.kr/FloorPlan/59A</guid>
+      <description><![CDATA[84A 타입의 평면 구성과 공간 설계를 확인하세요.]]></description>
       <pubDate>Tue, 11 Nov 2025 14:00:00 +0900</pubDate>
     </item>
+
     <item>
       <title>84B</title>
-      <link>https://www.lotte-castl.co.kr/FloorPlan/59B</link>
-      <guid isPermaLink="true">https://www.lotte-castl.co.kr/FloorPlan/59B</guid>
-      <description><![CDATA[전용 84B 타입의 평면 구성과 수납·동선 요소를 소개합니다.]]></description>
+      <link>https://www.theporest.co.kr/FloorPlan/59B</link>
+      <guid isPermaLink="true">https://www.theporest.co.kr/FloorPlan/59B</guid>
+      <description><![CDATA[84B 타입의 공간 활용과 동선 설계를 소개합니다.]]></description>
       <pubDate>Tue, 11 Nov 2025 14:00:00 +0900</pubDate>
     </item>
+
     <item>
       <title>84C</title>
-      <link>https://www.lotte-castl.co.kr/FloorPlan/84A</link>
-      <guid isPermaLink="true">https://www.lotte-castl.co.kr/FloorPlan/84A</guid>
-      <description><![CDATA[전용 84C 타입의 실용적인 공간 활용과 구조를 확인하세요.]]></description>
+      <link>https://www.theporest.co.kr/FloorPlan/84A</link>
+      <guid isPermaLink="true">https://www.theporest.co.kr/FloorPlan/84A</guid>
+      <description><![CDATA[84C 타입의 실용적인 공간 구성과 특징을 확인하세요.]]></description>
       <pubDate>Tue, 11 Nov 2025 14:00:00 +0900</pubDate>
     </item>
+
     <item>
-      <title>122</title>
-      <link>https://www.lotte-castl.co.kr/FloorPlan/84B</link>
-      <guid isPermaLink="true">https://www.lotte-castl.co.kr/FloorPlan/84B</guid>
-      <description><![CDATA[전용 122㎡ 타입의 고급 설계와 공간 여유를 소개합니다.]]></description>
+      <title>84D</title>
+      <link>https://www.theporest.co.kr/FloorPlan/84B</link>
+      <guid isPermaLink="true">https://www.theporest.co.kr/FloorPlan/84B</guid>
+      <description><![CDATA[84D 타입의 공간 활용과 특화 설계를 소개합니다.]]></description>
       <pubDate>Tue, 11 Nov 2025 14:00:00 +0900</pubDate>
     </item>
 
     <!-- 홍보센터 -->
     <item>
       <title>관심고객 등록</title>
-      <link>https://www.lotte-castl.co.kr/Promotion/Customer</link>
-      <guid isPermaLink="true">https://www.lotte-castl.co.kr/Promotion/Customer</guid>
-      <description><![CDATA[모델하우스 오픈 및 청약 일정, 최신 소식을 먼저 받아보세요.]]></description>
+      <link>https://www.theporest.co.kr/Promotion/Customer</link>
+      <guid isPermaLink="true">https://www.theporest.co.kr/Promotion/Customer</guid>
+      <description><![CDATA[모델하우스 오픈 및 주요 소식을 가장 먼저 받아보세요.]]></description>
       <pubDate>Tue, 11 Nov 2025 14:00:00 +0900</pubDate>
     </item>
 

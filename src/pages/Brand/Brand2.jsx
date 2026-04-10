@@ -50,7 +50,7 @@ const Brand2 = () => {
     name="description"
     content="대전 용전 마루힐 홍보영상으로 복합터미널 중심 생활권과 편리한 인프라, 새로운 주거 프리미엄을 영상으로 확인하세요."
   />
-  <link rel="canonical" href="https://www.lotte-castl.co.kr/Brand/video" />
+  <link rel="canonical" href="https://www.theporest.co.kr/Brand/video" />
   <meta name="robots" content="index,follow" />
 
   {/* OG 태그 */}
@@ -61,8 +61,8 @@ const Brand2 = () => {
     property="og:description"
     content="대전 용전 마루힐 홍보영상: 복합터미널 중심 생활 인프라와 미래가치를 영상으로 만나보세요."
   />
-  <meta property="og:url" content="https://www.lotte-castl.co.kr/Brand/video" />
-  <meta property="og:image" content="https://www.lotte-castl.co.kr/images/og/main.jpg" />
+  <meta property="og:url" content="https://www.theporest.co.kr/Brand/video" />
+  <meta property="og:image" content="https://www.theporest.co.kr/images/og/main.jpg" />
 
   {/* Twitter */}
   <meta name="twitter:card" content="summary_large_image" />
@@ -71,7 +71,7 @@ const Brand2 = () => {
     name="twitter:description"
     content="복합터미널 중심 생활권과 새로운 주거 가치를 담은 대전 용전 마루힐을 영상으로 확인하세요."
   />
-  <meta name="twitter:image" content="https://www.lotte-castl.co.kr/images/og/main.jpg" />
+  <meta name="twitter:image" content="https://www.theporest.co.kr/images/og/main.jpg" />
 </Helmet>
 
 <Header isChanged={isScroll} />

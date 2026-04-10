@@ -53,7 +53,7 @@ const Brand1 = () => {
     name="description"
     content="대전 용전 마루힐의 브랜드 가치와 주거 비전을 소개합니다. 복합터미널 중심 생활권, 편리한 인프라, 미래가치를 담은 새로운 주거 프리미엄을 만나보세요."
   />
-  <link rel="canonical" href="https://www.lotte-castl.co.kr/Brand/intro" />
+  <link rel="canonical" href="https://www.theporest.co.kr/Brand/intro" />
   <meta name="robots" content="index,follow" />
 
   {/* Open Graph */}
@@ -64,8 +64,8 @@ const Brand1 = () => {
     property="og:description"
     content="복합터미널 중심 생활권과 풍부한 인프라, 새로운 주거타운의 기대가치를 담은 대전 용전 마루힐의 브랜드 비전을 소개합니다."
   />
-  <meta property="og:url" content="https://www.lotte-castl.co.kr/Brand/intro" />
-  <meta property="og:image" content="https://www.lotte-castl.co.kr/images/og/main.jpg" />
+  <meta property="og:url" content="https://www.theporest.co.kr/Brand/intro" />
+  <meta property="og:image" content="https://www.theporest.co.kr/images/og/main.jpg" />
 </Helmet>
 
 <Header isChanged={isScroll} />

@@ -67,7 +67,7 @@ const BusinessGuide1 = () => {
     content="대전광역시 동구 용전동 일원에 선보이는 대전 용전 마루힐의 사업 개요를 확인하세요. 입지와 규모, 주거 가치와 미래 기대감을 담은 사업 정보를 안내합니다."
   />
   <meta name="robots" content="index,follow" />
-  <link rel="canonical" href="https://www.lotte-castl.co.kr/BusinessGuide/intro" />
+  <link rel="canonical" href="https://www.theporest.co.kr/BusinessGuide/intro" />
 
   {/* Open Graph */}
   <meta property="og:type" content="website" />
@@ -77,8 +77,8 @@ const BusinessGuide1 = () => {
     property="og:description"
     content="대전 복합터미널 생활권의 새로운 주거 선택, 대전 용전 마루힐의 위치와 사업 정보를 확인하세요."
   />
-  <meta property="og:url" content="https://www.lotte-castl.co.kr/BusinessGuide/intro" />
-  <meta property="og:image" content="https://www.lotte-castl.co.kr/img/og/business.jpg" />
+  <meta property="og:url" content="https://www.theporest.co.kr/BusinessGuide/intro" />
+  <meta property="og:image" content="https://www.theporest.co.kr/img/og/business.jpg" />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
 
@@ -89,8 +89,8 @@ const BusinessGuide1 = () => {
     name="twitter:description"
     content="대전 용전 마루힐 사업 개요와 입지, 주거 가치, 미래 기대감을 확인하세요."
   />
-  <meta name="twitter:image" content="https://www.lotte-castl.co.kr/img/og/business.jpg" />
-  <meta name="twitter:url" content="https://www.lotte-castl.co.kr/BusinessGuide/intro" />
+  <meta name="twitter:image" content="https://www.theporest.co.kr/img/og/business.jpg" />
+  <meta name="twitter:url" content="https://www.theporest.co.kr/BusinessGuide/intro" />
 
   {/* JSON-LD (대표 이미지/브레드크럼 포함) */}
   <script type="application/ld+json">
@@ -98,20 +98,20 @@ const BusinessGuide1 = () => {
       "@context": "https://schema.org",
       "@type": "WebPage",
       "name": "대전 용전 마루힐 - 사업안내",
-      "url": "https://www.lotte-castl.co.kr/BusinessGuide/intro",
+      "url": "https://www.theporest.co.kr/BusinessGuide/intro",
       "description":
         "대전광역시 동구 용전동 일원에 선보이는 대전 용전 마루힐의 사업 개요와 위치, 규모, 주거 가치를 제공합니다.",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "contentUrl": "https://www.lotte-castl.co.kr/img/og/business.jpg",
+        "contentUrl": "https://www.theporest.co.kr/img/og/business.jpg",
         "width": 1200,
         "height": 630
       },
       "breadcrumb": {
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://www.lotte-castl.co.kr/" },
-          { "@type": "ListItem", "position": 2, "name": "사업안내", "item": "https://www.lotte-castl.co.kr/BusinessGuide/intro" }
+          { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://www.theporest.co.kr/" },
+          { "@type": "ListItem", "position": 2, "name": "사업안내", "item": "https://www.theporest.co.kr/BusinessGuide/intro" }
         ]
       }
     })}

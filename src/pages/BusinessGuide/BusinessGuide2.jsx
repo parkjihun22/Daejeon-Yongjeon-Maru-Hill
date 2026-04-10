@@ -56,7 +56,7 @@ const BusinessGuide2 = () => {
     name="description"
     content="대전 용전 마루힐의 분양 일정을 한눈에 확인하세요. 오픈 일정과 청약, 당첨자 발표, 계약 등 주요 일정을 안내합니다."
   />
-  <link rel="canonical" href="https://www.lotte-castl.co.kr/BusinessGuide/plan" />
+  <link rel="canonical" href="https://www.theporest.co.kr/BusinessGuide/plan" />
   <meta name="robots" content="index,follow" />
 </Helmet>
 

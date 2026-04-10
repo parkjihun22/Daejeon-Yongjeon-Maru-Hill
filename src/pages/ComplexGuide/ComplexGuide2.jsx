@@ -57,7 +57,7 @@ const ComplexGuide1 = () => {
     name="description"
     content="대전 용전 마루힐 동·호수 배치도를 통해 세대별 위치와 배치 구성을 확인하세요. 동별 구성과 호수 배치를 한눈에 안내합니다."
   />
-  <link rel="canonical" href="https://www.lotte-castl.co.kr/ComplexGuide/detailintro" />
+  <link rel="canonical" href="https://www.theporest.co.kr/ComplexGuide/detailintro" />
   <meta name="robots" content="index,follow" />
 
   {/* Open Graph */}
@@ -68,8 +68,8 @@ const ComplexGuide1 = () => {
     property="og:description"
     content="대전 용전 마루힐의 동별 구성과 호수 배치를 한눈에 확인하세요."
   />
-  <meta property="og:url" content="https://www.lotte-castl.co.kr/ComplexGuide/detailintro" />
-  <meta property="og:image" content="https://www.lotte-castl.co.kr/img/og/complex.jpg" />
+  <meta property="og:url" content="https://www.theporest.co.kr/ComplexGuide/detailintro" />
+  <meta property="og:image" content="https://www.theporest.co.kr/img/og/complex.jpg" />
 </Helmet>
 
 <Header isChanged={isScroll} />

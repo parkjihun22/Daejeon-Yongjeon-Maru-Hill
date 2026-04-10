@@ -6,7 +6,7 @@
 
     <!-- 홈페이지 -->
     <url>
-        <loc>https://www.lotte-castl.co.kr/</loc>
+        <loc>https://www.theporest.co.kr/</loc>
         <lastmod>2025-11-11T10:00:00+09:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
@@ -14,89 +14,119 @@
 
     <!-- 브랜드 소개 -->
     <url>
-        <loc>https://www.lotte-castl.co.kr/Brand/intro</loc>
+        <loc>https://www.theporest.co.kr/Brand/intro</loc>
+        <lastmod>2025-11-11T10:00:00+09:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
+
     <url>
-        <loc>https://www.lotte-castl.co.kr/Brand/video</loc>
+        <loc>https://www.theporest.co.kr/Brand/video</loc>
+        <lastmod>2025-11-11T10:00:00+09:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
 
     <!-- 사업안내 -->
     <url>
-        <loc>https://www.lotte-castl.co.kr/BusinessGuide/intro</loc>
+        <loc>https://www.theporest.co.kr/BusinessGuide/intro</loc>
+        <lastmod>2025-11-11T10:00:00+09:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
+
     <url>
-        <loc>https://www.lotte-castl.co.kr/BusinessGuide/plan</loc>
+        <loc>https://www.theporest.co.kr/BusinessGuide/plan</loc>
+        <lastmod>2025-11-11T10:00:00+09:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
 
     <!-- 분양안내 -->
     <url>
-        <loc>https://www.lotte-castl.co.kr/SalesInfo/announcement</loc>
+        <loc>https://www.theporest.co.kr/SalesInfo/guide</loc>
+        <lastmod>2025-11-11T10:00:00+09:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://www.theporest.co.kr/SalesInfo/announcement</loc>
+        <lastmod>2025-11-11T10:00:00+09:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
 
     <!-- 입지환경 -->
     <url>
-        <loc>https://www.lotte-castl.co.kr/LocationEnvironment/intro</loc>
+        <loc>https://www.theporest.co.kr/LocationEnvironment/intro</loc>
+        <lastmod>2025-11-11T10:00:00+09:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
+
     <url>
-        <loc>https://www.lotte-castl.co.kr/LocationEnvironment/primium</loc>
+        <loc>https://www.theporest.co.kr/LocationEnvironment/primium</loc>
+        <lastmod>2025-11-11T10:00:00+09:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
 
     <!-- 단지안내 -->
     <url>
-        <loc>https://www.lotte-castl.co.kr/ComplexGuide/intro</loc>
+        <loc>https://www.theporest.co.kr/ComplexGuide/intro</loc>
+        <lastmod>2025-11-11T10:00:00+09:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
+
     <url>
-        <loc>https://www.lotte-castl.co.kr/ComplexGuide/detailintro</loc>
+        <loc>https://www.theporest.co.kr/ComplexGuide/detailintro</loc>
+        <lastmod>2025-11-11T10:00:00+09:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
+
     <url>
-        <loc>https://www.lotte-castl.co.kr/ComplexGuide/community</loc>
+        <loc>https://www.theporest.co.kr/ComplexGuide/community</loc>
+        <lastmod>2025-11-11T10:00:00+09:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
 
     <!-- 세대안내 -->
     <url>
-        <loc>https://www.lotte-castl.co.kr/FloorPlan/59A</loc>
+        <loc>https://www.theporest.co.kr/FloorPlan/59A</loc>
+        <lastmod>2025-11-11T10:00:00+09:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
+
     <url>
-        <loc>https://www.lotte-castl.co.kr/FloorPlan/59B</loc>
+        <loc>https://www.theporest.co.kr/FloorPlan/59B</loc>
+        <lastmod>2025-11-11T10:00:00+09:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
+
     <url>
-        <loc>https://www.lotte-castl.co.kr/FloorPlan/84A</loc>
+        <loc>https://www.theporest.co.kr/FloorPlan/84A</loc>
+        <lastmod>2025-11-11T10:00:00+09:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
+
     <url>
-        <loc>https://www.lotte-castl.co.kr/FloorPlan/84B</loc>
+        <loc>https://www.theporest.co.kr/FloorPlan/84B</loc>
+        <lastmod>2025-11-11T10:00:00+09:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
 
     <!-- 홍보센터 -->
     <url>
-        <loc>https://www.lotte-castl.co.kr/Promotion/Customer</loc>
+        <loc>https://www.theporest.co.kr/Promotion/Customer</loc>
+        <lastmod>2025-11-11T10:00:00+09:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>

@@ -101,7 +101,7 @@ const LocationEnvironment1 = () => {
     content="대전 용전 마루힐의 입지환경을 확인하세요. 복합터미널 중심 생활권과 풍부한 생활 인프라, 편리한 교통환경과 미래가치를 함께 누리는 주거 입지입니다."
   />
   <meta name="robots" content="index,follow" />
-  <link rel="canonical" href="https://www.lotte-castl.co.kr/LocationEnvironment/intro" />
+  <link rel="canonical" href="https://www.theporest.co.kr/LocationEnvironment/intro" />
 
   {/* Open Graph */}
   <meta property="og:type" content="website" />
@@ -111,8 +111,8 @@ const LocationEnvironment1 = () => {
     property="og:description"
     content="복합터미널 중심 생활권, 다양한 생활 인프라와 편리한 교통환경을 갖춘 대전 용전 마루힐의 입지환경을 확인하세요."
   />
-  <meta property="og:url" content="https://www.lotte-castl.co.kr/LocationEnvironment/intro" />
-  <meta property="og:image" content="https://www.lotte-castl.co.kr/img/og/location.jpg" />
+  <meta property="og:url" content="https://www.theporest.co.kr/LocationEnvironment/intro" />
+  <meta property="og:image" content="https://www.theporest.co.kr/img/og/location.jpg" />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
 
@@ -123,8 +123,8 @@ const LocationEnvironment1 = () => {
     name="twitter:description"
     content="복합터미널 중심 생활권과 교통·생활 인프라를 두루 갖춘 대전 용전 마루힐의 입지환경을 확인하세요."
   />
-  <meta name="twitter:image" content="https://www.lotte-castl.co.kr/img/og/location.jpg" />
-  <meta name="twitter:url" content="https://www.lotte-castl.co.kr/LocationEnvironment/intro" />
+  <meta name="twitter:image" content="https://www.theporest.co.kr/img/og/location.jpg" />
+  <meta name="twitter:url" content="https://www.theporest.co.kr/LocationEnvironment/intro" />
 
   {/* JSON-LD (대표 이미지/브레드크럼 포함) */}
   <script type="application/ld+json">
@@ -132,20 +132,20 @@ const LocationEnvironment1 = () => {
       "@context": "https://schema.org",
       "@type": "WebPage",
       "name": "대전 용전 마루힐 - 입지환경",
-      "url": "https://www.lotte-castl.co.kr/LocationEnvironment/intro",
+      "url": "https://www.theporest.co.kr/LocationEnvironment/intro",
       "description":
         "복합터미널 중심 생활권과 풍부한 생활 인프라, 편리한 교통환경을 갖춘 대전 용전 마루힐의 입지환경을 안내합니다.",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "contentUrl": "https://www.lotte-castl.co.kr/img/og/location.jpg",
+        "contentUrl": "https://www.theporest.co.kr/img/og/location.jpg",
         "width": 1200,
         "height": 630
       },
       "breadcrumb": {
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://www.lotte-castl.co.kr/" },
-          { "@type": "ListItem", "position": 2, "name": "입지환경", "item": "https://www.lotte-castl.co.kr/LocationEnvironment/intro" }
+          { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://www.theporest.co.kr/" },
+          { "@type": "ListItem", "position": 2, "name": "입지환경", "item": "https://www.theporest.co.kr/LocationEnvironment/intro" }
         ]
       }
     })}

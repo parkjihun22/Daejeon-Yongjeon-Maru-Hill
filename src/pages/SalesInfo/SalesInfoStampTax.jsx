@@ -59,7 +59,7 @@ const ComplexGuide1 = () => {
             name="description"
             content="대전 용전 마루힐 분양(계약) 시 필요한 인지세 납부 기준과 절차, 금액 및 유의사항을 한눈에 확인하세요."
           />
-          <link rel="canonical" href="https://www.lotte-castl.co.kr/SalesInfo/stampTax" />
+          <link rel="canonical" href="https://www.theporest.co.kr/SalesInfo/stampTax" />
           <meta name="robots" content="index,follow" />
         </Helmet>
 

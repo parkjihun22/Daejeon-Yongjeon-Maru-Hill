@@ -11,7 +11,7 @@ import InterestPopup from "../InterestPopup/InterestPopup";
 
 // FAMILY SITE 목록 예시
 const partnerSites = [
-  { name: "대전 용전 마루힐", url: "https://www.lotte-castl.co.kr/" },
+  { name: "대전 용전 마루힐", url: "https://www.theporest.co.kr/" },
 ];
 
 const Footer = () => {

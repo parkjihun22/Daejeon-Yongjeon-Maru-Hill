@@ -59,7 +59,7 @@ const ComplexGuide1 = () => {
           name="description"
           content="대전 용전 마루힐 분양 전 필수 체크포인트를 확인하세요. 청약 자격(거주기간·무주택·예치금), 특별공급 유형, 필요서류·일정, 유의사항을 한눈에 안내합니다."
         />
-        <link rel="canonical" href="https://www.lotte-castl.co.kr/SalesInfo/SubscriptionGuide" />
+        <link rel="canonical" href="https://www.theporest.co.kr/SalesInfo/SubscriptionGuide" />
         <meta name="robots" content="index,follow" />
       </Helmet>
 
